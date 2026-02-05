@@ -12,7 +12,6 @@
   --offline-color: #808080; 
   
   --background-shading-percent: 100%; 
-  --background-image: url(https://i.ibb.co/zT9LmtTg/image.png); 
   --background-position: center; 
   --background-size: cover;
   --background-attachment: fixed; 
@@ -29,7 +28,6 @@
   --user-modal-size: var(--background-size);
   --user-modal-attachment: var(--background-attachment); 
   --user-modal-filter: var(--background-filter); 
-  --home-icon: url(https://i.ibb.co/TMbnJ88n/597139008-782276511492972-3871347955979065543-n.jpg); 
   --home-size: cover; 
   --main-font: "gg sans", "Helvetica Neue", Helvetica, Arial, sans-serif; 
   --code-font: Consolas, "gg mono", "Liberation Mono", Menlo, Courier, monospace;
@@ -83,4 +81,5 @@
   --normal-text: #dcdcde;
   --muted-text: #86868e;
 }
+
 
